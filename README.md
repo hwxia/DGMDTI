@@ -1,4 +1,6 @@
 # DGMDTI
+DGMDTI: Efficient Drug-Target Interaction Prediction via a Sequence-Based Framework with Attention Mechanism Fusion
+
 ## Tips
 First, use the ESM2 model to extract protein features(cd ./ESM2_Feature_Extration); 
 
